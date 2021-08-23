@@ -33,7 +33,7 @@ namespace MonsterCalculator
             /*
              * Getting console input variable used in math
              */
-            Console.WriteLine("Enter Number Monsters Drank:");
+            Console.WriteLine("How man Monsters did you drink today?");
             string monsters = Console.ReadLine();
 
             /*
