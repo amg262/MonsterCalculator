@@ -75,8 +75,6 @@ namespace MonsterCalculator
              * create new class and run both methods
              */
             Program A = new Program();
-           // A.LabA();
-            //A.LabB();
             A.AssignmentOne();
         }
     }

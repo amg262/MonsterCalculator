@@ -1,0 +1,16 @@
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\bin\Debug\net5.0\MonsterCalculator.exe
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\bin\Debug\net5.0\MonsterCalculator.deps.json
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\bin\Debug\net5.0\MonsterCalculator.runtimeconfig.json
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\bin\Debug\net5.0\MonsterCalculator.runtimeconfig.dev.json
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\bin\Debug\net5.0\MonsterCalculator.dll
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\bin\Debug\net5.0\ref\MonsterCalculator.dll
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\bin\Debug\net5.0\MonsterCalculator.pdb
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\obj\Debug\net5.0\MonsterCalculator.csproj.AssemblyReference.cache
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\obj\Debug\net5.0\MonsterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\obj\Debug\net5.0\MonsterCalculator.AssemblyInfoInputs.cache
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\obj\Debug\net5.0\MonsterCalculator.AssemblyInfo.cs
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\obj\Debug\net5.0\MonsterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\obj\Debug\net5.0\MonsterCalculator.dll
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\obj\Debug\net5.0\ref\MonsterCalculator.dll
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\obj\Debug\net5.0\MonsterCalculator.pdb
+C:\Users\Andy\RiderProjects\MonsterCalculator\MonsterCalculator\MonsterCalculator\obj\Debug\net5.0\MonsterCalculator.genruntimeconfig.cache
